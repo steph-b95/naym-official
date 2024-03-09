@@ -20,14 +20,12 @@ h2 {
 }
 div {
     display: inline-block;
-    width: 20%;
-    height: 300px;
-    margin: 0 15px;
+    border: 1px solid brown;
 }
 
 img {
     width: 80%;
-    margin: auto;
+    margin: 0 auto;
     display: block;
 }
 
@@ -37,6 +35,42 @@ p {
     font-size: 20px;
     text-align: center;
 }
+
+@media (min-width:1025px) {
+    div {
+        width: 20%;
+        height: 300px;
+        margin: 0 15px;
+    }
+    img {
+        
+    }
+}
+
+
+@media (max-width:480px) {
+    div {
+        width: 10%;
+        height: 100px;
+        
+
+    }
+    img {
+        
+    }
+}
+
+@media (max-width:1024px) {
+    div {
+        width: 20%;
+        height: 300px;
+        margin: 0 15px;
+    }
+    img {
+        
+    }
+}
+
 
 
 
@@ -54,8 +88,8 @@ a {
 .links a:hover {
     background-color: #C0CAD8;
     color: #313E50;
-    border-radius: 3px;
-    padding: 3px;
+    border-radius: 10px;
+    padding: 5px;
 }
 
 footer {
