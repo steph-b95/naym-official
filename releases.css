@@ -61,7 +61,7 @@ a {
 @media (max-width:480px) {
     div {
         width: 90%;
-        height: 150px;
+        height: 200px;
         display: inline-block;
     }
 
