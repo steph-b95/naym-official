@@ -58,7 +58,7 @@ a {
 }
 
 
-@media (max-width:480px) {
+@media (max-width:640px) {
     div {
         width: 70%;
         height: 300px;
