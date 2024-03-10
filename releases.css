@@ -36,7 +36,10 @@ p {
     text-align: center;
 }
 
-
+a {
+    color: #C0CAD8;
+    text-decoration-line: none;
+}
 
 .links {
     width: 15%;
