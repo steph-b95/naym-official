@@ -41,21 +41,16 @@ p {
         height: 300px;
         margin: 0 15px;
     }
-    img {
-        
-    }
 }
 
 
 @media (max-width:480px) {
     div {
         width: 20%;
-        height: 100px;
+        height: 150px;
+        font-size: 15px;
         
 
-    }
-    img {
-        
     }
 
     h1 {
@@ -65,19 +60,12 @@ p {
 
 @media (max-width:1024px) {
     div {
-        width: 15%;
-        height: 100px;
+        width: 20%;
+        height: 200px;
         margin: 0 15px;
-    }
-    img {
-        
+        font-size: 20px;
     }
 }
-
-
-
-
-
 
 a {
     color: #C0CAD8;
