@@ -60,9 +60,10 @@ a {
 
 @media (max-width:480px) {
     div {
-        width: 80%;
+        width: 70%;
         height: 300px;
         display: block;
+        border: 1px solid brown;
     }
 
     h1 {
