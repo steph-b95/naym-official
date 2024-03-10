@@ -60,7 +60,7 @@ a {
 
 @media (max-width:480px) {
     div {
-        width: 90%;
+        width: 80%;
         height: 300px;
         display: block;
     }
