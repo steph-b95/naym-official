@@ -48,13 +48,14 @@ p {
     div {
         width: 20%;
         height: 150px;
-        font-size: 15px;
-        
-
     }
 
     h1 {
         font-size: 50px;
+    }
+
+    p {
+        font-size: 15px;
     }
 }
 
@@ -63,6 +64,9 @@ p {
         width: 20%;
         height: 200px;
         margin: 0 15px;
+    }
+
+    p {
         font-size: 20px;
     }
 }
