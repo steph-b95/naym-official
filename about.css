@@ -69,10 +69,11 @@ footer {
 }
 
 @media (max-width:1024px) {
-    div {
+    .about {
         width: 70%;
         margin: auto;
         display: block;
+        text-align: center;
     }
     img {
         display: block;
