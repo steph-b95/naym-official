@@ -62,7 +62,7 @@ a {
     div {
         width: 90%;
         height: 150px;
-        display: block;
+        display: inline-block;
     }
 
     h1 {
